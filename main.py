@@ -8,7 +8,6 @@ import subprocess
 import http.server
 import socketserver
 import threading
-import pytz
 from datetime import datetime
 
 # अपने एडमिन UID को परिभाषित करें
